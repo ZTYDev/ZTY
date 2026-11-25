@@ -2,7 +2,6 @@
 
 Zest To You（简称 ZTY）是一款基于 Tauri 2 + Vue 3 开发的 Windows 桌面 Minecraft 启动器，覆盖版本安装、账号登录、模组管理、游戏启动与启动器个性化等日常使用场景。
 
-- **当前版本**：3.8.7（见 `core/tauri.conf.json`）
 - **应用标识**：`com.zty.launcher`
 - **目标平台**：Windows 10 及以上（64 位）
 
